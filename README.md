@@ -5,8 +5,8 @@ Install
 
 ```
 curl -L https://github.com/gsdevme/Oink/releases/download/beta/oink.phar \
--o /usr/local/bin/onik && \
-chmod +x /usr/local/bin/onik
+-o /usr/local/bin/oink && \
+chmod +x /usr/local/bin/oink
 ```
 
 Using this is not advised....
